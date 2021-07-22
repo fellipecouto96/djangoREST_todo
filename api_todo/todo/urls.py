@@ -3,5 +3,5 @@ from .views import TodoListAndCreate, TodoDetailsChangeAndDelete
 
 urlpatterns = [
     path('', TodoListAndCreate.as_view()),
-    path('<int:pk>/', TodoDetailsChangeAndDelete)
+    path('<int:pk>/', TodoDetailsChangeAndDelete.as_view())
 ]
