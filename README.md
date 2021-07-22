@@ -13,4 +13,4 @@ Neste curso você irá aprender a como criar uma API com python, utilizando o Dj
 
 ### Autor do Curso
 
-Fernando Augusto. Para mais cursos como este, acesse a [página do Fernando Augusto no Udemy.](hhttps://www.udemy.com/user/fernando-augusto-rodrigues-de-araujo/) 🙏🏻
+Fernando Augusto. Para mais cursos como este, acesse a [página do Fernando Augusto no Udemy.](https://www.udemy.com/user/fernando-augusto-rodrigues-de-araujo/) 🙏🏻
